@@ -1,10 +1,15 @@
 body{
 
-background-color: #383D58;
-color: white;
+background-color: #4f66e9;
+color:#5a6de9
 
 }
-h1{
-
-    
+.cabecalho{
+    background-color: #4f66e9;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
 }
+
