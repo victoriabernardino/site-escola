@@ -4,6 +4,16 @@ background-color: #4f66e9;
 color:#5a6de9
 
 }
+.escola-imagem{
+    width: 20%;
+}
+li{
+    color: white;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
 .cabecalho{
     background-color: #4f66e9;
     color: white;
@@ -12,4 +22,17 @@ color:#5a6de9
     align-items: center;
     padding: 24px 0;
 }
+.Escola-titulo{
+    color: #030101;
+}
+.escola{
+    color: #030101;
 
+}
+.todos-estudantes{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+}
+.imagem-aluno{
+    width: 50%;
+}
